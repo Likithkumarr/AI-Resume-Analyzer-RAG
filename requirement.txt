@@ -1,0 +1,13 @@
+ollama pull nomic-embed-text
+langchain
+langchain-communinity
+pypdf
+python-dotenv
+ollama pull tinyllama
+streamlit
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+pypdf
+pandas
